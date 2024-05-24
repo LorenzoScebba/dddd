@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Some random things you can force your driver to do.
 
-| d42 | Name                                                                                                                                                                                                                           |
+| d42 | What happens                                                                                                                                                                                                                   |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | You start to appreciate `for` loops, use one as soon as possible                                                                                                                                                               |
 | 2   | English is not a real language, spend the next 5 minutes writing in any language but english                                                                                                                                   |
