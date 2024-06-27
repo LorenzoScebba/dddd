@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Some random things you can force your driver to do.
 
-| d42 | What happens                                                                                                                                                                                                                   |
+| d43 | What happens                                                                                                                                                                                                                   |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | You start to appreciate `for` loops, use one as soon as possible                                                                                                                                                               |
 | 2   | English is not a real language, spend the next 5 minutes writing in any language but english                                                                                                                                   |
@@ -50,3 +50,4 @@ Some random things you can force your driver to do.
 | 40  | A-B Testing! Write two different versions of a critical function and use a random number generator to decide which version to call at runtime.                                                                                 |
 | 41  | Insert a comment in your code that claims it was written by a future version of yourself from 10 years ahead. Add a cryptic message or prediction about the future of the project.                                             |
 | 42  | Create a variable "Answer_to_the_Ultimate_Question_of_Life_the_Universe_and_Everything", use it somewhere in your code.                                                                                                        |
+| 43  | Replace an interface/type in your project with a generic Map<string, any> or any equivalent                                                                                                                                    |
